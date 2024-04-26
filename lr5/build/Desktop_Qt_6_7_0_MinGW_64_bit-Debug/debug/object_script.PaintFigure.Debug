@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/rectangle.o
+debug/romb.o
+debug/paintscene.o
+debug/figure.o
+debug/triangle.o
+debug/square.o
+debug/moc_mainwindow.o
+debug/moc_rectangle.o
+debug/moc_romb.o
+debug/moc_paintscene.o
+debug/moc_figure.o
+debug/moc_triangle.o
+debug/moc_square.o
